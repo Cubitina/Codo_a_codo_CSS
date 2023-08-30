@@ -16,7 +16,10 @@ body {
 }
 .contenedor {
     position: absolute;
-    left: 14%;
+    left: 0;
+    right: 0;
+    margin-left: auto; 
+    margin-right: auto;
     border-radius: 18px;
     margin: 50px auto 10px;
     width: 600px;
@@ -89,8 +92,11 @@ p {
     margin-bottom: 10px;
     text-align: center;
     top: 1100px;
-    left: 11%;
-    justify-content: center;
+    left: 0;
+    right: 0;
+    margin-left: auto; 
+    margin-right: auto;
+   
 }
 .codito {
     padding-top: 0;
